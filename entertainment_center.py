@@ -16,7 +16,7 @@ step_brothers = media.Movie("Step Brothers",
 avatar = media.Movie("Avatar",
                      "A movie about obtaining the cleverly named unobtainium",
                      "https://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
-                     "http://www.youtube.com/watch?v=-9ceBgWV8io")
+                     "https://www.youtube.com/watch?v=-9ceBgWV8io")
 
 dark_knight = media.Movie("The Dark Knight",
                           "AKA why the third one could never have been better",
